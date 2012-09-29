@@ -1,0 +1,2 @@
+Hello {{user}}!
+/me uses Flash Cannon on {{user}}!

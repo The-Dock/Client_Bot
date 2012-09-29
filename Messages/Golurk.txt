@@ -1,0 +1,3 @@
+Hello {{user}}!
+/me uses Shadow Punch on {{user}}!
+/me uses Earthquake!
