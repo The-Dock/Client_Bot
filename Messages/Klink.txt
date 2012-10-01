@@ -1,2 +1,4 @@
 Hello {{user}}!
 /me uses Flash Cannon on {{user}}!
+/me is not as good as Vileplume or {{user}}!
+/me uses Gear Grind on {{user}}!
