@@ -1,1 +1,4 @@
 Hello {{user}}, welcome to The Dock! We hope you enjoy your stay :)
+Hello User {{user}}! Welcome to The Dock!
+/me used explosion on {{user}}!
+Welcome {{user}} to the only channel one letter away from two words meaning penis! (Freud's favorite channel!)
